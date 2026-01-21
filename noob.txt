@@ -1,1 +1,2 @@
 Everyone has been a noob. Don't sweat it.
+<h1>Welcome, Noob!</h1>
